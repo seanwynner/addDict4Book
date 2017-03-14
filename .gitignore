@@ -1,0 +1,7 @@
+01input/*
+03ouputdir/*
+handledir/*
+log/*
+tmp/*
+!*.py
+!*.bat
