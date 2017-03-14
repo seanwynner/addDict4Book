@@ -1,5 +1,5 @@
-01input/*
-03ouputdir/*
+01inputdir/*
+03outputdir/*
 handledir/*
 log/*
 tmp/*
